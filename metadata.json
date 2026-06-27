@@ -1,0 +1,6 @@
+{
+  "name": "Velocity Sports Hub",
+  "description": "Premium high-performance gear and equipment for specialized athletes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
